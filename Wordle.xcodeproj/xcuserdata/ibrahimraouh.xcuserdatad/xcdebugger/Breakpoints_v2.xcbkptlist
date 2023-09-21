@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "85931494-43A8-46EB-95E6-61EF83D30DC2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wordle/KeyboardCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "KeyboardCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C - 5e3c2269cb350e74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.KeyboardCell.labelContainerView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimraouh/Files/Courses/CodePath%20-%20iOS/Project%201/Wordle/KeyboardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C - c249456f98d8d648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.KeyboardCell.labelContainerView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimraouh/Files/Courses/CodePath%20-%20iOS/Project%201/Wordle/KeyboardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C - 28f4152f666aa879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.KeyboardCell.labelContainerView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimraouh/Files/Courses/CodePath%20-%20iOS/Project%201/Wordle/KeyboardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C - 7903ee4267d9c6f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.KeyboardCell.labelContainerView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimraouh/Files/Courses/CodePath%20-%20iOS/Project%201/Wordle/KeyboardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C2EF13D2-4D85-4A79-9BF6-C88ECB65253C - d704f497858dda04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.KeyboardCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Wordle.KeyboardCell&gt;"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimraouh/Files/Courses/CodePath%20-%20iOS/Project%201/Wordle/KeyboardCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
