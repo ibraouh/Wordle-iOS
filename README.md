@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Demo
 
-<img src="https://i.imgur.com/tSvf0Hw.gif" height="50%" width="50%">
+<img src="https://i.imgur.com/tSvf0Hw.gif" height="30%" width="30%">
 
 
 ## License
