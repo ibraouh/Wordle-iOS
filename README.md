@@ -24,7 +24,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Demo
-![image](https://i.imgur.com/tSvf0Hw.gif)
+
+<img src="https://i.imgur.com/tSvf0Hw.gif" width="200" height="100">
+
 
 ## License
 
